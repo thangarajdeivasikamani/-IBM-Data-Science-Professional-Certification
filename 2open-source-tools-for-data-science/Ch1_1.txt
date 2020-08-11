@@ -1,0 +1,46 @@
+Welcome to Cognitive Class Labs, previously known as
+Data Scientist Workbench or BDU Labs. It's a free virtual lab environment that
+lets you practice your skills in Python, R, and more, while you learn data science. It's ready to use in your web browser. So without having to install
+anything on your computer, you can immediately start using popular
+data science tools like RStudio IDE, Jupiter Notebooks, Apache Zeppelin,
+Open Refine, SeaHorse, and more. In these videos, you'll be learning
+about these popular tools and how to get familiar working
+in the environments. Cognitive Class Labs is also the virtual
+lab environment for cognitiveclass.ai, a popular website with lots of free
+online courses in data science, artificial intelligence,
+and data engineering. But throughout these videos,
+you'll also hear us referring to Data Scientist Workbench, which is simply
+the former name of Cognitive Class Labs. So in actuality, Cognitive Class Labs and Data Scientist Workbench are one and
+the same. Let's first go through some of the user
+interface on Cognitive Class Labs to get you familiarized with
+the environment before jumping into the data science tools. Here's the menu pane situated
+on the left side of the screen. In the Find Data section, you'll have
+access to two important resources, IBM Analytics Exchange and OpenData. Let's take a quick look at each one. IBM Analytics Exchange connects you to IBM
+Blue Mix which allows you to explore and discover all sorts of online public data. And you can use that data
+in any of these notebooks. By clicking on the Open Data link, you'll
+be connected to many sources of open data, including the United Nations Data Sets, Open Government Data, Industry Open Data,
+and Open Data Search Engines. Then, at the bottom of the menu,
+you have a number of other useful links. Let's start with Workbench Status. Here you can get information about
+the status of the Cognitive Class Labs, whether it's operational or
+down for maintenance. If you're having problems
+with Cognitive Class Labs, click this link to check its status. If all systems are operational, then open a ticket by clicking the Support
+tab at the right of the screen. By clicking on the Submit an idea link, you can share your ideas about
+Cognitive Class Labs directly with IBM. For example,
+you can describe other tools or features that you'd like to see
+next on Cognitive Class Labs. Please note that the current
+tools were all put into place based on input from the community. Your ideas are definitely taken seriously. We certainly want to improve this tool for
+everyone. Next, check out the blog. Here you'll be able to get the scoop
+on the latest data science news. Clicking on the knowledge based
+link allows you to search for answers to all your questions
+on Cognitive Class Labs. You can also find updates here on
+the status of your submitted ideas. The articles are organized by tool or you can search through all the articles
+within the knowledge base. The feedback forum link gives you
+the opportunity to provide your input on any of the tools, whether it'll be to
+offer praise or even to make a complaint. You can use the voting buttons to
+give us a sense of what you think. To vote on a topic, click Vote,
+and give either 1, 2, or 3 votes. We listen to what you tell us. In fact, Cognitive Class Labs which originally
+created based on all your suggestions. So keep those ideas coming. Use the Support link to open a ticket or
+to check on the status of your feedback or submitted ideas. The online learning link takes
+you to cognitiveclass.ai Where you can take all the free
+courses they have to offer. Check out their learning paths. And finally, the What's New link shows you everything
+that's new with Cognitive Class Labs. Things brings us to the end of this video. Thanks for watching.
