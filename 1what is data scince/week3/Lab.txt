@@ -1,0 +1,44 @@
+Data scientist:
+
+Data scientist means to collect either historical data or current data from various source, using this data to analysis and find the useful pattern/predictive something. This will help origination realize the growth and goals. Also will help the management to understand the value of data.
+
+ 
+
+Important skills:
+    1.Curiosity – Look at the data and find the hidden useful pattern.
+
+    2. Sense of humor.
+
+    3. Technical means – Basic algebra, Basic statistics, Computer programming knowledge(python or similar),Problem solving skills  
+
+
+
+ Data Science is a process, means it’s involved multiple steps:
+
+Understand the environment.
+
+Understanding of how the data are generated ( It’s may be from Machine,Sensor,web log,image,etc). This data may be structured or unstructured.
+
+Using the historical data or current data understand and discover the hidden pattern or generate the new pattern.
+
+Model the system and evaluate the performance
+
+Required collect the more data and repeat the process.
+
+Share the feedback to stockholders(Story Telling)
+
+Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)
+
+Data scientist another important skill is communicating with rights things
+ Title descriptive
+ Cover page.
+ Table of content
+ Introductory
+ Abstract or Executive summary
+ Methodology
+ Results
+ Discussions
+ Conclusion
+ Reference
+ Acknowledgement
+ Appendices.

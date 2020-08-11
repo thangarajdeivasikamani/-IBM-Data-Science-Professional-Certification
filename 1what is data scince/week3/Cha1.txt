@@ -1,0 +1,5 @@
+How Should Companies Get Started in Data Science?
+
+Collect the data, Don't over write, Even 100 Year old data also will helpful.
+If you are not collecting to start collecting.
+put the few data scientist to anaysis the data.

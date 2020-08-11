@@ -1,0 +1,43 @@
+
+Applications of Machine Learning
+(popping) (upbeat music) - Everybody now deals
+with machine learning. Drives my wife crazy sometimes
+because recommender systems, right, this is one of
+the first applications. Netflix, my wife gets really
+upset because if I go in and sign in as her and watch a movie all of a sudden she's
+watching action movies and not watching some of the deep philosophical movies she likes to watch. But recommender systems are certainly one of the major applications. Classifications, cluster
+analysis, trying to find some of the marketing
+questions from 20 years ago, market basket analysis, what goods tend to be bought together. That was computationally a
+very difficult problem, I mean we're now doing that all the
+time with machine learning. So predictive analytics is
+another area of machine learning. We're using new
+techniques to predict things that statisticians
+don't particularly like. Decision trees, Bayesian
+Analysis, naive Bayes, lots of different techniques. The nice thing about them is
+that in packages like R now, you really have to understand
+how these techniques can be used and you don't have to
+know exactly how to do them but you have to understand
+what their meanings are. Precision versus recall and
+the problems of over sampling and over fitting so you can,
+someone who knows a little about data science can
+apply these techniques but they really need to
+know, maybe not the details of the technique as much as
+how, what the trade-offs are. And I'll give a plug
+for Foster Provost's book where he's actually written a whole book basically telling practitioners how to use all of these new machine
+learning techniques. (music) I have two sprinkler
+systems running right now, one in Maine and one in New Jersey, that talk to me and tell me
+what's happening and I can turn them on and off and
+program them and whatever. Yes, we already have
+refrigerators that will tell you, scan things that tell you
+what's in them and stuff. Kettles, there's a little
+problem with heat there, I'm not so sure about kettles
+but many, many, many devices now furnaces, I mean any kind
+of device you put in the home is gonna generate data. I have my thermostat,
+I mean I can tell you what the temperature is
+in my house right now if I wanted to, I can turn it up and down, I can turn lights on and
+off and I'm just, my wife won't let me go very far with this because it drives her totally crazy. Totally crazy. I could right now connect to
+the camera in my living room and talk to my wife but if
+I did I would probably have the door locked when I get home. But there are people out there
+that have their total lives totally generating data about them. My fitbit, which I haven't had very long, this is collecting lots of data about me. And it could collect a lot more that I can feed to my doctor. (music) One of the cool things that's going on now is these peer-to-peer networks, what we call ZigBee, these ZigBee networks that are fairly very low frequency but a ZigBee device can run on a battery for a couple of years,
+they're only this big, and they can talk to each other so they can form a mesh network. Just throw them around the building and they'll talk to each other and one of them will
+connect to the internet and push its data out. (music)

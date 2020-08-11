@@ -1,0 +1,25 @@
+High School Students and Data Science Careers
+
+(popping) (upbeat music) - Learn how to program. Learn some math. Take a course in probability. Learn a little bit of statistics. And then, play. Build something, write something. I mean, when I say build,
+programming and building systems, building things isn't
+just physical, right? You can build computer systems, statistical systems, whatever. But once you try to do something, then you'll know what
+tools you need, right? And you'll say, "Oh, oh my god, what? "There's this expression there, "what does an inner product mean? "What's that? "How do I, oh, okay, I can learn that." And then when they get to
+college, they will have a big jump on many of the other college students. And so when they get out of college, they'll have an even bigger jump, and then make a lot of money. And they'll be happy, too. This stuff is fun, right? It's fun. (music) How about we talk about
+women in data science, right? I mean, this is the, I happen to have a granddaughter, and I keep trying to steer her gently towards STEM kinds of things. I think parents need to understand that their children are
+going into a new world, that this is a world that's gonna be, it's different than the
+world they're living in. And their children have to
+be prepared for it, the jobs, you can just look, I mean
+just in yesterday's paper, this morning's paper, where the jobs are. Manufacturing down, service is going up, but if you know some data science and some basic STEM kinds of things, I mean, besides data science,
+the rest of the sciences are also taking off, often
+based on computation. The ability to simulate things that, we don't have to build
+anything anymore, right? I have a 3D printer. I don't have to print something to know what it's gonna look like, right? I can design something, or I can get a design off the internet, flip it around, look at it and say hmm, that sorta does what I want but let me pull this
+a little bit this way, and then I'll send it to my 3D printer. And if I don't, I have a
+really junky 3D printer, but, if I say oh, I want to make a really good version of that, I can push a button and send
+it out over the internet and, you know, for 15,
+20, 30, 40, 50 dollars have a really nice thing printed for me, and today, they can print things in wood, rubber, metal, it's incredible. General Electric is, Jeff Immelt is betting part of the
+future of General Electric on their new platform,
+which is one they built for designing and building jet engines, but they're now rolling it out across and selling it to other
+manufacturing companies. Manufacturing is becoming digital. And the good news is that
+it's more productive, you can do things faster, the bad news is it doesn't need anywhere
+near as many workers. So you've gotta be on the
+right side of this trend. (music)
